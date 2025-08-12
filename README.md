@@ -9,8 +9,8 @@
 <body>
 
   <header>
-    <img src="imagens/banner.jpg" alt="Banner do Portal Jovem" style="width:100%; height:auto;">
-    <h1>🎮 Portal Jovem - Tudo que a gente curte!</h1>
+    <img src="https://flowplay.com.br/wp-content/uploads/2024/11/Os-Melhores-Filmes-para-Assistir-com-a-Familia-Usando-IPTV-1024x585.jpg.webp" alt="Banner do Portal " style="width:100%; height:auto;">
+    <h1>Recomendando filmes!</h1>
   </header>
 
   <nav>
@@ -34,15 +34,15 @@
     </section>
 
     <section>
-      <h2>Filme da Semana</h2>
-      <p>🎥 Pecadores (Sinners, 2025)
+      <h2>🎥Filme da Semana</h2>
+      <p><strong>🎥 Pecadores (Sinners, 2025)</strong>
 Dirigido por Ryan Coogler e estrelado por Michael B. Jordan em papéis duplos, o filme se passa no Mississippi em 1932. Dois irmãos gêmeos voltam à cidade natal com o sonho de abrir um clube de blues para a comunidade negra. Mas logo enfrentam uma força sombria: vampiros e membros da Ku Klux Klan, sob o ataque da misteriosa figura Remmick. Eles precisam lutar por sobrevivência, enfrentar dores do passado e proteger seu legado cultural </p>
     </section>
 
     <section>
-      <h2>🖼️ Galeria</h2>
-      <p>Adicione suas imagens favoritas aqui. Crie uma pasta chamada <strong>imagens</strong> e coloque suas fotos lá.</p>
-      <img src="imagens/exemplo.jpg" alt="Imagem exemplo" width="300">
+      <h2>🖼️Gostou de algum filme?</h2>
+      <p>Aqui estão algumas plataformas com os filmes disponíveis 📼 </p>
+      <img src="https://imagem.natelinha.uol.com.br/original/opcoes-streamings-ibope_1354.jpeg">
     </section>
   </main>
 
