@@ -33,17 +33,19 @@
       <article><h3>5.A Substância</h3><p>Terror corporal e psicológico que satiriza padrões de beleza, centrado em uma substância misteriosa que rejuvenesce — a um custo alto.</p></article>
     </section>
 
-    <section>
+  <section>
       <h2>🎥Filme da Semana</h2>
       <p><strong>🎥 Pecadores (Sinners, 2025)</strong>
+        
 Dirigido por Ryan Coogler e estrelado por Michael B. Jordan em papéis duplos, o filme se passa no Mississippi em 1932. Dois irmãos gêmeos voltam à cidade natal com o sonho de abrir um clube de blues para a comunidade negra. Mas logo enfrentam uma força sombria: vampiros e membros da Ku Klux Klan, sob o ataque da misteriosa figura Remmick. Eles precisam lutar por sobrevivência, enfrentar dores do passado e proteger seu legado cultural </p>
     </section>
 
-    <section>
+  <section>
       <h2>🖼️Gostou de algum filme?</h2>
       <p>Aqui estão algumas plataformas com os filmes disponíveis 📼 </p>
-      <img src="https://imagem.natelinha.uol.com.br/original/opcoes-streamings-ibope_1354.jpeg">
-    </section>
+      <img src="https://github.com/IsabelleVitorya25/Exerc-cio-de-HTML5/blob/main/imagens/opcoes-streamings-ibope_1354.jpeg">
+  </section>
+    
   </main>
 
   <footer>
